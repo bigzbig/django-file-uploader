@@ -1,1 +1,6 @@
 ENV/
+example/static/*
+example/media/*
+example/db.sqlite3
+example/django_file_uploader
+*.pyc
